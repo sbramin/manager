@@ -38,7 +38,7 @@ I don’t have a monopoly on leadership. Everyone in the team has a voice, and I
 Everyone is responsible for quality, we should care for the things we build, and how we do so. 
 
 ### Communication & Transparency
-Communication is a large part of being a successful software engineer human. Meeting’s are an important tool but they don’t scale well, instead I favour the asynchronous and public style of communication that a tool like slack offers.  While on slack I aim for all my conversations to be public, DM’s are reserved for private feedback, not project/work conversations. If a meeting must take place, notes should capture any valuable information and be shared publicly so those that couldn’t attend can benefit.
+Communication is a large part of being a successful ~~software engineer~~ human. Meeting’s are an important tool but they don’t scale well, instead I favour the asynchronous and public style of communication that a tool like slack offers.  While on slack I aim for all my conversations to be public, DM’s are reserved for private feedback, not project/work conversations. If a meeting must take place, notes should capture any valuable information and be shared publicly so those that couldn’t attend can benefit.
 
 
 # Loose gravel 
